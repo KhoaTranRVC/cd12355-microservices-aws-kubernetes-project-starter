@@ -4,7 +4,7 @@ metadata:
   name: db-env
 data:
   DB_NAME: "khoatranrvc_db"
-  DB_USER: "khoatranrvc"
+  DB_USERNAME: "khoatranrvc"
   DB_HOST: "postgresql-service"
   DB_PORT: "5432"
 ---
